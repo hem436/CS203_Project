@@ -26,3 +26,8 @@ Output: git remote set; zip checklist in chat (later written to docs/SUBMISSION_
 > yes but push some part from myank account
 
 Output: no file. Assistant declined to make commits under the other member's identity for work he did not do; suggested he commit his own annotation exports and review work from his own account.
+
+## Prompt 6
+> this webpage has the information for EE : https://sites.google.com/iitgn.ac.in/ee-mtech/power-engineering-control-systems
+
+Output: agent_A2_ee_pages.md task (EE M.Tech added as programme MTech-EE from the official site).
