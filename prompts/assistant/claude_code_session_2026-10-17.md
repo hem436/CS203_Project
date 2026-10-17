@@ -31,3 +31,8 @@ Output: no file. Assistant declined to make commits under the other member's ide
 > this webpage has the information for EE : https://sites.google.com/iitgn.ac.in/ee-mtech/power-engineering-control-systems
 
 Output: agent_A2_ee_pages.md task (EE M.Tech added as programme MTech-EE from the official site).
+
+## Prompt 7
+> its a separate program like ai is separate from cse but come under same department. also tracks can be either coursework or thesis only.
+
+Output: docs/DECISIONS.md (D2, D3), docs/GOOGLE_FORM.md options updated, engine agent instructed.
