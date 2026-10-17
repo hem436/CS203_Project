@@ -36,3 +36,19 @@ Output: agent_A2_ee_pages.md task (EE M.Tech added as programme MTech-EE from th
 > its a separate program like ai is separate from cse but come under same department. also tracks can be either coursework or thesis only.
 
 Output: docs/DECISIONS.md (D2, D3), docs/GOOGLE_FORM.md options updated, engine agent instructed.
+
+## Prompt 8
+> can you create the google form using the chrome browser
+
+## Prompt 9
+> wait change the google account to iitgn
+
+## Prompt 10
+> 1
+
+(Option 1: continue building the form in the IITGN account, stopping before publish.)
+
+## Prompt 11
+> use gpu from kaggle
+
+Output: Part D agent told to prepare Kaggle CLI path (notebooks/kaggle_llm_runs.ipynb, kaggle/, scripts/kaggle_run.sh).
