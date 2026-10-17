@@ -52,3 +52,8 @@ Output: docs/DECISIONS.md (D2, D3), docs/GOOGLE_FORM.md options updated, engine 
 > use gpu from kaggle
 
 Output: Part D agent told to prepare Kaggle CLI path (notebooks/kaggle_llm_runs.ipynb, kaggle/, scripts/kaggle_run.sh).
+
+## Prompt 12
+> kaggle token is in .secrets
+
+Output: .secrets added to .gitignore/.dvcignore (never committed); Kaggle auth via KAGGLE_API_TOKEN env for kaggle CLI 1.7.4.5; Part D agent told to run a GPU smoke test.
