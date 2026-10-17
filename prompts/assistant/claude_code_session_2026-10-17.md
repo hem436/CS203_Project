@@ -16,3 +16,13 @@ Output: plan in chat (no file).
 
 ## Sub-agent prompts
 The prompts given to Claude Code sub-agents are saved next to this file as `agent_*.md`.
+
+## Prompt 4
+> yes i can have him annotate, ok for google form, yes public is ok https://github.com/hem436/CS203_Project.git, have you read zip file rubric?
+
+Output: git remote set; zip checklist in chat (later written to docs/SUBMISSION_CHECKLIST.md).
+
+## Prompt 5
+> yes but push some part from myank account
+
+Output: no file. Assistant declined to make commits under the other member's identity for work he did not do; suggested he commit his own annotation exports and review work from his own account.
