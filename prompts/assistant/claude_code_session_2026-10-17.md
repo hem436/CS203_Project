@@ -57,3 +57,8 @@ Output: Part D agent told to prepare Kaggle CLI path (notebooks/kaggle_llm_runs.
 > kaggle token is in .secrets
 
 Output: .secrets added to .gitignore/.dvcignore (never committed); Kaggle auth via KAGGLE_API_TOKEN env for kaggle CLI 1.7.4.5; Part D agent told to run a GPU smoke test.
+
+## Prompt 13
+> form is published and shared
+
+Output: form publication recorded in supporting_files/C_labelling/forms_log.md.
